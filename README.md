@@ -1,6 +1,6 @@
-## Olá, me chamo Guilherme. 🤘
+## Hello, Guilherme here. 🤘
 
-* Sou Desenvolvedor Full Stack
+* i'm a full stack software engineer
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hivegui&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
